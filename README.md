@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshgiri-7&label=Profile%20views&color=0e75b6&style=flat" alt="niteshgiri-7" /> </p>
 
-- 🌱 I’m currently learning **Typescript| AdonisJS**
-- 👯 I'm looking to collaborate on **MERN projects**
+- 🌱 I’m currently learning **Effective Typescript**
+- 👯 I'm looking to collaborate on **React&Node.js projects**
 - 📫 How to reach me: **niteshofficial.dev@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
